@@ -1,0 +1,62 @@
+<svg width="660" height="400" viewBox="0 0 660 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f8fbff"/>
+      <stop offset="0.54" stop-color="#eef8f4"/>
+      <stop offset="1" stop-color="#fff4e5"/>
+    </linearGradient>
+    <radialGradient id="leftGlow" cx="0.22" cy="0.45" r="0.46">
+      <stop offset="0" stop-color="#83dcca" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#83dcca" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="rightGlow" cx="0.78" cy="0.45" r="0.46">
+      <stop offset="0" stop-color="#f4bd76" stop-opacity="0.38"/>
+      <stop offset="1" stop-color="#f4bd76" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-35%" y="-35%" width="170%" height="170%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#24323a" flood-opacity="0.14"/>
+    </filter>
+  </defs>
+
+  <rect width="660" height="400" fill="url(#bg)"/>
+  <rect width="660" height="400" fill="url(#leftGlow)"/>
+  <rect width="660" height="400" fill="url(#rightGlow)"/>
+
+  <text
+    x="330"
+    y="62"
+    text-anchor="middle"
+    font-family="-apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif"
+    font-size="26"
+    font-weight="700"
+    fill="#1c2c34"
+  >Install Snowbo Snippets</text>
+  <text
+    x="330"
+    y="91"
+    text-anchor="middle"
+    font-family="-apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif"
+    font-size="13"
+    font-weight="500"
+    fill="#607078"
+  >Drag the app into Applications</text>
+
+  <g filter="url(#shadow)">
+    <rect x="116" y="142" width="128" height="128" rx="30" fill="#fff" fill-opacity="0.78"/>
+    <rect x="416" y="142" width="128" height="128" rx="30" fill="#fff" fill-opacity="0.78"/>
+  </g>
+
+  <g stroke="#27373f" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M282 200 H365"/>
+    <path d="M348 178 L371 200 L348 222"/>
+  </g>
+  <text
+    x="330"
+    y="248"
+    text-anchor="middle"
+    font-family="-apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif"
+    font-size="12"
+    font-weight="700"
+    fill="#27373f"
+  >DRAG TO INSTALL</text>
+</svg>

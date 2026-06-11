@@ -1,0 +1,22 @@
+<svg width="720" height="420" viewBox="0 0 720 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Copy Fill AI workflow illustration">
+  <rect width="720" height="420" rx="28" fill="#F7F7F8"/>
+  <path d="M180 210H540" stroke="#D7D7DB" stroke-width="8" stroke-linecap="round"/>
+  <path d="M344 210H376" stroke="#007AFF" stroke-width="8" stroke-linecap="round"/>
+  <g font-family="ui-sans-serif, system-ui" text-anchor="middle">
+    <rect x="74" y="112" width="168" height="196" rx="18" fill="white" stroke="#D7D7DB"/>
+    <rect x="112" y="144" width="92" height="74" rx="14" fill="#F2F7FF"/>
+    <path d="M142 170H177M142 190H166" stroke="#007AFF" stroke-width="8" stroke-linecap="round"/>
+    <text x="158" y="258" fill="#222" font-size="24" font-weight="700">Copy</text>
+    <text x="158" y="284" fill="#777" font-size="16">paste the body</text>
+    <rect x="276" y="112" width="168" height="196" rx="18" fill="white" stroke="#D7D7DB"/>
+    <rect x="314" y="144" width="92" height="74" rx="14" fill="#FFF8EF"/>
+    <text x="360" y="190" fill="#D06A00" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="36" font-weight="800">$$</text>
+    <text x="360" y="258" fill="#222" font-size="24" font-weight="700">Fill</text>
+    <text x="360" y="284" fill="#777" font-size="16">replace slots</text>
+    <rect x="478" y="112" width="168" height="196" rx="18" fill="white" stroke="#D7D7DB"/>
+    <rect x="516" y="144" width="92" height="74" rx="14" fill="#FBF7FF"/>
+    <path d="M562 157L570 179L592 187L570 195L562 217L554 195L532 187L554 179L562 157Z" fill="#7C3AED"/>
+    <text x="562" y="258" fill="#222" font-size="24" font-weight="700">AI</text>
+    <text x="562" y="284" fill="#777" font-size="16">run prompts</text>
+  </g>
+</svg>

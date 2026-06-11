@@ -1,0 +1,22 @@
+<svg width="720" height="420" viewBox="0 0 720 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Quick search prefixes illustration">
+  <rect width="720" height="420" rx="28" fill="#F7F7F8"/>
+  <rect x="64" y="54" width="592" height="312" rx="22" fill="white" stroke="#D7D7DB"/>
+  <rect x="94" y="88" width="532" height="54" rx="14" fill="#F3F4F6" stroke="#DADADD"/>
+  <circle cx="122" cy="115" r="10" stroke="#777" stroke-width="4"/>
+  <path d="M130 123L140 133" stroke="#777" stroke-width="4" stroke-linecap="round"/>
+  <text x="166" y="124" fill="#222" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="23" font-weight="700">$ port</text>
+  <g font-family="ui-sans-serif, system-ui" font-size="20" font-weight="700">
+    <rect x="94" y="172" width="246" height="58" rx="12" fill="#FFF8EF" stroke="#FFD7A3"/>
+    <text x="120" y="208" fill="#D06A00">$</text>
+    <text x="154" y="208" fill="#222">Fill snippets</text>
+    <rect x="380" y="172" width="246" height="58" rx="12" fill="#FBF7FF" stroke="#DDC7FF"/>
+    <text x="406" y="208" fill="#7C3AED">@</text>
+    <text x="440" y="208" fill="#222">AI snippets</text>
+    <rect x="94" y="252" width="246" height="58" rx="12" fill="#F3FCF7" stroke="#B8E8CA"/>
+    <text x="120" y="288" fill="#159447">/</text>
+    <text x="154" y="288" fill="#222">Tag index</text>
+    <rect x="380" y="252" width="246" height="58" rx="12" fill="#F2F7FF" stroke="#BFD7FF"/>
+    <text x="406" y="288" fill="#007AFF">@@</text>
+    <text x="456" y="288" fill="#222">Direct AI</text>
+  </g>
+</svg>

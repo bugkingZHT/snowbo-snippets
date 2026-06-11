@@ -1,0 +1,16 @@
+<svg width="720" height="420" viewBox="0 0 720 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Snippet marker examples">
+  <rect width="720" height="420" rx="28" fill="#F7F7F8"/>
+  <rect x="48" y="42" width="624" height="336" rx="18" fill="white" stroke="#D7D7DB"/>
+
+  <rect x="76" y="72" width="568" height="82" rx="12" fill="#F3FCF7" stroke="#B8E8CA"/>
+  <text x="104" y="108" fill="#159447" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20" font-weight="800">// tag: linux port</text>
+  <text x="104" y="136" fill="#222" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18">lsof -i :3000</text>
+
+  <rect x="76" y="178" width="568" height="82" rx="12" fill="#FFF8EF" stroke="#FFD7A3"/>
+  <text x="104" y="214" fill="#D06A00" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20" font-weight="800">// title: Find port</text>
+  <text x="104" y="242" fill="#222" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18">lsof -i :$$</text>
+
+  <rect x="76" y="284" width="568" height="82" rx="12" fill="#FBF7FF" stroke="#DDC7FF"/>
+  <text x="104" y="320" fill="#7C3AED" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20" font-weight="800">@@ Generate a git commit message</text>
+  <text x="104" y="348" fill="#222" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18">diff summary: $$</text>
+</svg>
